@@ -40,8 +40,7 @@ Fp ne se déplace que sur les cases de terre.
 
 -programme principal_2
 
-#Fonctionnement:
-
+# Fonctionnement:
 Au début, vous devez dans le terminal écrire deux valeurs (hauteur et longueur). Nous vous conseillons du 500*500.
 Afin de générer un terrain, vous pouvez appuyer sur le bouton "génération de terrain"
 Puis, afin de générer le robot, cliquez sur une parcelle de terre.
@@ -50,7 +49,7 @@ Si vous voulez supprimer FP, vous pouvez appuyer sur le bouton "supprimer fp!"
 Vous pouvez sauvegarder un terrain en cliquant sur "sauvegarder le terrain", puis lorsque vous générez de nouveau un terrain,
 en appuyant sur "charger le terrain" vous revenez sur le terrain précédemment sauvegardé.
 
-#Explication des différentes fonctions:
+# Explication des différentes fonctions:
 
 quadrillage:
 Le quadrillage est dessiné dans le canevas avec des carrés de côté variable "COTE" par l'intermédiaire d'une double boucle while.

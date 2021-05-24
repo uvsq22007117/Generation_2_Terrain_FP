@@ -41,6 +41,7 @@ Fp ne se déplace que sur les cases de terre.
 -programme principal_2
 
 #Fonctionnement:
+
 Au début, vous devez dans le terminal écrire deux valeurs (hauteur et longueur). Nous vous conseillons du 500*500.
 Afin de générer un terrain, vous pouvez appuyer sur le bouton "génération de terrain"
 Puis, afin de générer le robot, cliquez sur une parcelle de terre.

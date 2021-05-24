@@ -4,10 +4,15 @@ Il a été réalisé par le groupe Trois du TD-3 De Bio-Info (L1 2020-2021)
 
 
 #Membres:
+
 Cottignies Leya 
+
 Ponchelet Arthur (abandon projet)
+
 Setia Danielle
+
 Volpe Alexandra
+
 Elève Fantome
 
 # Explication du projet:
@@ -16,14 +21,23 @@ L'eau est représentée par le bleu, la terre par le rouge.
 Fp ne se déplace que sur les cases de terre.
 
 # Séquençage du projet:
+
 -auteur
+
 -import des modules
+
 -constantes
+
 -variables globales
+
 -fonctions
+
 -programme principal_1
+
 -création des widgets
+
 -placement des widgets
+
 -programme principal_2
 
 #Fonctionnement:
